@@ -1,0 +1,1 @@
+This is a basic system converter, taking some positive number in base 2 to 25 and converting it to base from 2 to 25. Project was developed in NetBeans using the pallete provided and JavaBean component. The executable jar is located in the BaseSystemConverter/dist/ which can be looked at.
